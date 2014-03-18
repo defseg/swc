@@ -1,3 +1,4 @@
 1. learn git
-2. VERSION CONTROL
+'q' is not recognized as an internal or external command,
+operable program or batch file.
 3. profit!!!
